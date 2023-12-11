@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width", initial-scale="1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
+  
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&family=Style+Script&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./oasis.css">
+</head>
+<body>
+    
+
+    <!-- Navigation -->
+
+    <nav class="nav-container">
+       
+        <div class="nav">
+            <div class="nav-logo-text">
+                    <img src="https://ftr.imgix.net/1QLKLKsFykUyihiYpHQj6S/f8f8e432661063d4ffe1a4b96dd9e4be/Red-preview.png?auto=format%2Ccompress&cs=srgb&fit=max&q=60&w=340&s=7dc9b767e233c994eb79e832307688b4" class="nav-logo">
+                    <h1 class="nav-text">ExpressVPN</h1>
+            </div>
+            <div class="globe-container">          
+                <i class='bx bx-globe logo'></i>
+                <div class="select-container">
+                    <select name="" id="" class="select">
+                    <option value="0" class="select-text"> English</option>
+                    </select>
+                </div>
+        </div>
+    </div>
+    <h1 class="body-text"> The VPN that just works</h1>
+    <h2 class="body-text-2">Go further with #1 trustted leader in VPN</h2>
+    
+    <input type="button" value="Get ExpressVPN ->" class="nav-btn">
+    <h2 class="body-text-3">30-DAYS MONEY BACK GUARANTEE</h2>
+
+    </nav>
+
+    <!-- SECURE -->
+    <div class="secure">
+
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSxf3AKagWkX4Hxn1eiUHXUL1VeQS_v7TGNA&usqp=CAU" alt="" class="secure-image-1">
+        <div class="secure-texts">
+            <h1 class="secure-text-1">Secure access,<br>Worldwide</h1>
+            <div class="secure-text-2">Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                 Totam quibusdam sit voluptates odit, expedita vitae at. Excepturi iure repudiandae modi.</div>
+                 <input type="button" value="Get ExpressVPN ->" class="secure-btn-1">
+    
+            </div>
+    </div>
+
+    <!-- ONE CLICK TO A SAFER INTERNET -->
+
+    <section class="one-click">
+        <div class="secure-texts">
+            <h1 class="secure-text-1">One click to a safer,<br>Internet</h1>
+            <div class="secure-text-2">Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                 Totam quibusdam sit voluptates odit, expedita vitae at. Excepturi iure repudiandae modi.</div>
+        </div>
+        <img src="https://ftr.imgix.net/62AYZKCmyn0bIqZyTGYXqx/fca5b338088baee86b9eae4a3dfb2527/lamp-unexposed-browsers.png?auto=format%2Ccompress&cs=srgb&fit=max&q=60&w=480&s=58677f479622955d5690675ec9cb85ae" alt="" class="secure-image-1">
+    </section>
+
+
+    <!-- Use ExpressVpn -->
+
+    <div class="one-click">
+
+        <img src="https://ftr.imgix.net/4Hq0c6NKQtQpx4YOqPQCSB/d83bf26253974e69bdbeeed208d912ac/extend-your-coverage-with-a-vpn.png?auto=format%2Ccompress&cs=srgb&fit=max&q=60&w=480&s=1301ac02b0b21c0fe213187b5f022730" alt="" class="secure-image-1">
+        <div class="secure-texts">
+            <h1 class="secure-text-1">Use ExpressVPN on<br>Everydevice</h1>
+            <div class="secure-text-2">Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                 Totam quibusdam sit voluptates odit, expedita vitae at. Excepturi iure repudiandae modi.</div>
+                 <input type="button" value="Get ExpressVPN ->" class="secure-btn-1">
+
+            </div>
+    </div>
+
+    <section class="three-images">
+        <div class="image-data">
+            <img src="https://mywebsiteexpressvpn.000webhostapp.com/wp-content/uploads/2022/07/serious-security.jpg" class="three-images-image">
+            <div class="text-data">
+                <h1 class="three-text-1">Stronger data protection is important</h1>
+                <h1 class="three-text-2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, perferendis.</h1>
+            </div>
+        </div>
+        <div class="image-data">
+            <img src="https://ftr.imgix.net/5F2ySeLBognoZIJQNjyAot/71dd6fe83c1cc08ffa2dacde0759e39e/be-anywhere.png?auto=format%2Ccompress&cs=srgb&fit=max&q=60&w=440&s=cb038f2398ef8c5b33352a2d14590673" alt="" class="three-images-image">
+            <div class="text-data">
+                <h1  class="three-text-3">Works seamlessly everywhere</h1>
+                <h1 class="three-text-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, perferendis.</h1>
+
+            </div>
+        </div>
+        <div class="image-data">
+            <img src="https://ftr.imgix.net/uoPgq1HAqZRS3jE7tdH0t/b4a797aa617cc7cbc03545217687fad9/blazing-fast-speeds.png?auto=format%2Ccompress&cs=srgb&fit=max&q=60&w=440&s=52a021dbca8531a66c068b5a01ec498b" alt="" class="three-images-image">
+            <div class="text-data">
+                <h1  class="three-text-4">Lightning-quick connecctivity</h1>
+                <h1 class="three-text-6">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, perferendis.</h1>
+
+            </div>
+        </div>
+    </section>
+
+    <div class="link-1">
+        <a href="#" class="link-1"> see more advantages ></a>
+    </div>
+
+    <section class="world">
+        <div class="world-header">Ultra fast servers around the globe</div>
+        <div class="world-text-1"> 160 <br>locations</div>
+        <div class="world-text-2">94 <br>Countries</div>
+        <div class="world-text-3"><i class='bx bx-infinite' ></i><br>Unlimited <br>bandwidth</div>
+        <a href="#" class="link-2"> See our full list VPN server locations ></a>
+
+    </section>
+</body>
+</html>
